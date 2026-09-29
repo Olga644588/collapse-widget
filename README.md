@@ -11,7 +11,7 @@
 
 ## Демо
 
-📎 [Посмотреть на GitHub Pages](https://olga644588.github.io/collapse-widget/)
+[Посмотреть на GitHub Pages](https://olga644588.github.io/collapse-widget/)
 
 ![Deploy](https://github.com/Olga644588/collapse-widget/actions/workflows/deploy.yml/badge.svg)
 
